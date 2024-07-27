@@ -1,3 +1,4 @@
+//This is v1.0.0 of the Cafe Model. Any Contributor Making change, make sure to UPDATE this version 
 package CafeModel;
 
 import java.sql.*;
