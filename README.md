@@ -100,7 +100,7 @@ CREATE TABLE IF NOT EXISTS Menu (
 );
 ```
 
-### Inserting Menu Items
+### Inserting Menu Items (I added a Few. You Can Have your Own Menu)
 
 ```sql
 -- Inserting Sandwiches
