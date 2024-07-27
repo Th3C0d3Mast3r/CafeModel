@@ -70,13 +70,13 @@ This project is a simple Restaurant Management System implemented in Java. It al
 
 ## Code Overview
 
-- **Main.java**: Entry point of the application. Handles user interaction for order type selection.
-- **MenuCard.java**: Manages the display of the menu.
-- **DineInOrder.java**: Handles dine-in orders and customer details.
-- **TakeAwayOrder.java**: Handles takeaway orders and customer details.
-- **PlaceOrder.java**: Manages the order placement and table creation.
-- **Billing.java**: Handles billing, payment, and database updates.
-- **ConfirmChoice.java**: Utility class for confirmation checks.
+- **Main**: Entry point of the application. Handles user interaction for order type selection.
+- **MenuCard**: Manages the display of the menu.
+- **DineInOrder**: Handles dine-in orders and customer details.
+- **TakeAwayOrder**: Handles takeaway orders and customer details.
+- **PlaceOrder**: Manages the order placement and table creation.
+- **Billing**: Handles billing, payment, and database updates.
+- **ConfirmChoice**: Utility class for confirmation checks.
 
 ## SQL Queries
 
